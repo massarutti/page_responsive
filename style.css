@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+body {
+    background-color: grey;
+}
+
+header div{
+    padding: 20px;
+    min-width: 320px;
+    max-width: 800px;
+    margin: auto;
+}
+
+main {
+    background-color: white;
+    padding: 20px;
+    border-radius: 10px;
+    min-width: 320px;
+    max-width: 800px;
+    margin: auto;
+}
+
+main section {
+    justify-items: center;
+}
+
+main img {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    width: 100%;
+}
+ main section p{
+    margin: 10px;
+    text-align: justify;
+ }
